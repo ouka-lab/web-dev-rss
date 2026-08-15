@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title><![CDATA[web.dev Blog (unofficial)]]></title>
+        <link>https://web.dev/blog?hl=en</link>
+        <atom:link href="https://ouka-lab.github.io/web-dev-rss/feed.xml" rel="self" type="application/rss+xml" />
+        <description><![CDATA[Unofficial feed for the web.dev blog, rebuilt daily because the official feed stopped updating.]]></description>
+        <language>en-US</language>
+        <lastBuildDate>Sat, 15 Aug 2026 14:37:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>ouka-lab/web-dev-rss</generator>
+        <item>
+            <title><![CDATA[July 2026 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-jul-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-jul-2026</guid>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during July 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-jul-2026/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[New to the web platform in July]]></title>
+            <link>https://web.dev/blog/web-platform-07-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-07-2026</guid>
+            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during July 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-07-2026/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[The Baseline Features audit is now available in Lighthouse]]></title>
+            <link>https://web.dev/blog/baseline-lighthouse-features-audit</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-lighthouse-features-audit</guid>
+            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn which web features are used on a page—and their Baseline status—with the new Lighthouse Baseline features audit.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-lighthouse-features-audit/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[June 2026 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-jun-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-jun-2026</guid>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during June 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-jun-2026/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[New to the web platform in June]]></title>
+            <link>https://web.dev/blog/web-platform-06-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-06-2026</guid>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during June 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-06-2026/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[Introducing Baseline Alerts]]></title>
+            <link>https://web.dev/blog/baseline-alerts</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-alerts</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Baseline Alerts have landed on the Web Platform Status Dashboard. Learn how they can shorten the time between awareness of a web feature, and when you can adopt it.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-alerts/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[Effortlessly get Baseline target data with the updated Baseline Checker tool]]></title>
+            <link>https://web.dev/blog/baseline-ga-checker-update</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-ga-checker-update</guid>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get data to select your Baseline target with Google Analytics data—now faster and easier.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-ga-checker-update/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[May 2026 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-may-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-may-2026</guid>
+            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during May 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-may-2026/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[New to the web platform in May]]></title>
+            <link>https://web.dev/blog/web-platform-05-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-05-2026</guid>
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during May 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-05-2026/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[April 2026 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-apr-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-apr-2026</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during April 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-apr-2026/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[New to the web platform in April]]></title>
+            <link>https://web.dev/blog/web-platform-04-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-04-2026</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-04-2026/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[March 2026 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-mar-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-mar-2026</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during March 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-mar-2026/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[New to the web platform in March]]></title>
+            <link>https://web.dev/blog/web-platform-03-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-03-2026</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during March 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-03-2026/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[February 2026 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-feb-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-feb-2026</guid>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during February 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-feb-2026/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[January 2026 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-jan-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-jan-2026</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during January 2026]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-jan-2026/image/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[New to the web platform in February]]></title>
+            <link>https://web.dev/blog/web-platform-02-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-02-2026</guid>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during February 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-02-2026/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[Navigation API - a better way to navigate, is now Baseline Newly Available]]></title>
+            <link>https://web.dev/blog/baseline-navigation-api</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-navigation-api</guid>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Navigation API is now Baseline Newly available, providing a better way to handle navigation in single-page applications.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-navigation-api/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[Interop 2026: Continuing to improve the web for developers]]></title>
+            <link>https://web.dev/blog/interop-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/interop-2026</guid>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the features included in Interop 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/interop-2026/image/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[Start our latest course, Learn AI!]]></title>
+            <link>https://web.dev/blog/learn-ai-launch</link>
+            <guid isPermaLink="true">https://web.dev/blog/learn-ai-launch</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how to build a responsible AI system for your website or web application.]]></description>
+            <enclosure url="https://web.dev/static/blog/learn-ai-launch/image/cover.jpg" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[New to the web platform in January]]></title>
+            <link>https://web.dev/blog/web-platform-01-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-01-2026</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during January 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-01-2026/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[December 2025 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-dec-2025</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-dec-2025</guid>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during December 2025.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-dec-2025/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[LCP and INP are now Baseline Newly available]]></title>
+            <link>https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available</link>
+            <guid isPermaLink="true">https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[LCP and INP are now Baseline Newly available as of December 12, 2025.]]></description>
+            <enclosure url="https://web.dev/static/blog/lcp-and-inp-are-now-baseline-newly-available/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[New to the web platform in December]]></title>
+            <link>https://web.dev/blog/web-platform-12-2025</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-12-2025</guid>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during December 2025.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-12-2025/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[Vote for the web features you want to see]]></title>
+            <link>https://web.dev/blog/upvote-features</link>
+            <guid isPermaLink="true">https://web.dev/blog/upvote-features</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Have you ever wished you could just poke the browser vendors and say, &#34;Hey, I need this!&#34;? Well, now you can.]]></description>
+            <enclosure url="https://web.dev/static/blog/upvote-features/assets/upvote.webp" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[November 2025 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-nov-2025</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-nov-2025</guid>
+            <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during November 2025.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-nov-2025/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[Announcing Baseline in action]]></title>
+            <link>https://web.dev/blog/announcing-baseline-in-action</link>
+            <guid isPermaLink="true">https://web.dev/blog/announcing-baseline-in-action</guid>
+            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Baseline in action is a new series developed to help developers learn how to use Baseline features together to build better user experiences.]]></description>
+            <enclosure url="https://web.dev/static/blog/announcing-baseline-in-action/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[New to the web platform in November]]></title>
+            <link>https://web.dev/blog/web-platform-11-2025</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-11-2025</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during November 2025.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-11-2025/hero.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[WebGPU is now supported in major browsers]]></title>
+            <link>https://web.dev/blog/webgpu-supported-major-browsers</link>
+            <guid isPermaLink="true">https://web.dev/blog/webgpu-supported-major-browsers</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about the biggest web graphics launch since WebGL. WebGPU is supported across major browsers, bringing unparalleled performance to the web.]]></description>
+            <enclosure url="https://web.dev/static/blog/webgpu-supported-major-browsers/image/hero.jpg" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[October 2025 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-oct-2025</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-oct-2025</guid>
+            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during October 2025.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-oct-2025/image/thumbnail.png" type="image/png" />
+        </item>
+        <item>
+            <title><![CDATA[New to the web platform in October]]></title>
+            <link>https://web.dev/blog/web-platform-10-2025</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-10-2025</guid>
+            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during October 2025.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-10-2025/hero.png" type="image/png" />
+        </item>
+    </channel>
+</rss>

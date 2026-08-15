@@ -1,0 +1,16 @@
+{
+  "name": "web-dev-rss",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Unofficial RSS feed for the web.dev blog, rebuilt daily because the official feed stopped updating.",
+  "scripts": {
+    "build": "node src/index.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}
