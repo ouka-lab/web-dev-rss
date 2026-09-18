@@ -6,9 +6,17 @@
         <atom:link href="https://ouka-lab.github.io/web-dev-rss/feed.xml" rel="self" type="application/rss+xml" />
         <description><![CDATA[Unofficial feed for the web.dev blog, rebuilt daily because the official feed stopped updating.]]></description>
         <language>en-US</language>
-        <lastBuildDate>Thu, 03 Sep 2026 23:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 23:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ouka-lab/web-dev-rss</generator>
+        <item>
+            <title><![CDATA[Find features to support for Interop 2027 with your coding agent]]></title>
+            <link>https://web.dev/blog/coding-agents-interop-proposals</link>
+            <guid isPermaLink="true">https://web.dev/blog/coding-agents-interop-proposals</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.]]></description>
+            <enclosure url="https://web.dev/static/blog/coding-agents-interop-proposals/image/thumbnail.png" type="image/png" />
+        </item>
         <item>
             <title><![CDATA[Submit your proposals for Interop 2027]]></title>
             <link>https://web.dev/blog/interop-2027-proposals</link>
