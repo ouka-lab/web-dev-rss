@@ -6,9 +6,17 @@
         <atom:link href="https://ouka-lab.github.io/web-dev-rss/feed.xml" rel="self" type="application/rss+xml" />
         <description><![CDATA[Unofficial feed for the web.dev blog, rebuilt daily because the official feed stopped updating.]]></description>
         <language>en-US</language>
-        <lastBuildDate>Fri, 18 Sep 2026 23:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 01:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ouka-lab/web-dev-rss</generator>
+        <item>
+            <title><![CDATA[August 2026 Baseline monthly digest]]></title>
+            <link>https://web.dev/blog/baseline-digest-aug-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/baseline-digest-aug-2026</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read about various happenings with Baseline during August 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/baseline-digest-aug-2026/image/thumbnail.png" type="image/png" />
+        </item>
         <item>
             <title><![CDATA[Find features to support for Interop 2027 with your coding agent]]></title>
             <link>https://web.dev/blog/coding-agents-interop-proposals</link>
