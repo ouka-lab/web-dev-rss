@@ -6,9 +6,17 @@
         <atom:link href="https://ouka-lab.github.io/web-dev-rss/feed.xml" rel="self" type="application/rss+xml" />
         <description><![CDATA[Unofficial feed for the web.dev blog, rebuilt daily because the official feed stopped updating.]]></description>
         <language>en-US</language>
-        <lastBuildDate>Tue, 29 Sep 2026 01:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 00:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ouka-lab/web-dev-rss</generator>
+        <item>
+            <title><![CDATA[New to the web platform in September]]></title>
+            <link>https://web.dev/blog/web-platform-09-2026</link>
+            <guid isPermaLink="true">https://web.dev/blog/web-platform-09-2026</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.]]></description>
+            <enclosure url="https://web.dev/static/blog/web-platform-09-2026/hero.png" type="image/png" />
+        </item>
         <item>
             <title><![CDATA[August 2026 Baseline monthly digest]]></title>
             <link>https://web.dev/blog/baseline-digest-aug-2026</link>
